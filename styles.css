@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+/* CSS reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Alegreya", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 18px;
+
+    display: flex;
+    gap: 25px;
+}
+
+li a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+/* Styles for the navigation */
+.navbar {
+    background-color: #1f2937;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+/* Styles for the header */

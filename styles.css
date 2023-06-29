@@ -78,8 +78,8 @@ h1 {
 
 .header .container {
     /* border: 2px solid white; */
-
     min-height: 500px;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -110,6 +110,7 @@ h1 {
 
 .info .container {
     /* border: 2px solid black; */
+    min-height: 350px;
 
     display: flex;
     justify-content: center;
@@ -122,4 +123,31 @@ h1 {
 .box {
     max-width: 200px;
     text-align: center;
+}
+
+/* Styles for the quote */
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote .container p {
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.quote .container div {
+    font-size: 25px;
+    font-weight: bold;
+    align-self: flex-end;
+}
+
+.quote .container {
+    /* border: 2px solid black; */
+    min-height: 450px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 300px;
 }

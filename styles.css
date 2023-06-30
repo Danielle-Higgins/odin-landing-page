@@ -114,10 +114,9 @@ h1 {
 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     flex-wrap: wrap;
     gap: 50px;
-    padding-bottom: 80px;
 }
 
 .box {

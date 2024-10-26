@@ -22,7 +22,7 @@ If/when I improve this project, I would start by making it responsive. I would a
 
 Separation of concerns.
 
-# Credits
+## Credits
 
 The creator of the grid.svg file:
 - Brad Traversy

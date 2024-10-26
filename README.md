@@ -1,20 +1,26 @@
-# odin-landing-page
+# Odin Landing Page: <a target="_blank" href="https://danielle-higgins.github.io/odin-landing-page/">Visit Here</a>
 
-This project is an example of a landing page for a capsule hotel. This is my second project while going through the Odin Project curriculum. At this point, we learned more about CSS such as the box model, and Flexbox. In this project, those skills will be demonstrated.
+<img src="https://github.com/Danielle-Higgins/odin-landing-page/blob/main/images/landing-page-preview.png">
 
-# Skills
+Welcome To Our Capsule Hotels In Japan! The Capsule Addict is a landing page created to promote their capsule hotels located throughout Tokyo.
 
-Skills I will have demonstrated once completed:
+## Tech Used
 
-- Basic HTML, same as listed in the [odin-recipes](https://github.com/Danielle-Higgins/odin-recipes) project
+<p>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</p>
 
-- Basic CSS, same as listed in the [odin-recipes](https://github.com/Danielle-Higgins/odin-recipes) project along with:
-    - The box model
-    - Flexbox
+This project is built using just HTML and CSS.
 
-# Thoughts
+## Optimizations
 
-I think I did a decent job with this project. Will revisit to make it more responsive in the future. I learned a lot while doing it and I had a lot of fun. Was challenging when I styled some of the sections of the webpage but that's just part of the process of learning. I was able to apply everything that Iv'e learned thus far into this project and this gave me an idea of where I am in terms of knowledge. I can't wait to dive deeper!
+If/when I improve this project, I would start by making it responsive. I would also like to turn this into a full-stack web application.
+
+## Lessons Learned:
+
+Separation of concerns.
 
 # Credits
 

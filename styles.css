@@ -11,6 +11,7 @@ body {
   background-color: #1f2937;
   max-width: 70%;
   margin: auto;
+  padding: 10px;
 }
 
 ul {
@@ -20,6 +21,10 @@ ul {
 a {
   text-decoration: none;
   color: black;
+}
+
+.section {
+  padding: 100px 20px;
 }
 
 /* Header Section */
@@ -43,4 +48,45 @@ a {
 
 .header .nav a {
   color: #e5e7eb;
+}
+
+/* Hero Section */
+.hero {
+  display: flex;
+  align-items: center;
+}
+
+.hero .text-container,
+.hero img {
+  flex: 1;
+}
+
+.text-container h1 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+  margin-bottom: 5px;
+  max-width: 80%;
+}
+
+.text-container p {
+  font-size: 18px;
+  color: #e5e7eb;
+  margin-bottom: 20px;
+  max-width: 80%;
+}
+
+.text-container button {
+  background-color: #3882f6;
+  border: 2px solid transparent;
+  color: #eee;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 10px 40px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.hero img {
+  min-width: 0; /* so image doesn't break outside container */
 }

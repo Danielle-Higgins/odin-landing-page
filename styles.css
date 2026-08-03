@@ -94,7 +94,7 @@ a {
 
 /* Information Section */
 .info {
-  background-color: #eee;
+  background-color: #f9faf8;
   max-width: 100%;
   padding: 50px 0 150px;
 }
@@ -155,4 +155,45 @@ a {
   max-width: 100%;
   display: flex;
   justify-content: flex-end;
+}
+
+/* CTA Section */
+.call-to-action {
+  max-width: 100%;
+  background-color: #f9faf8;
+  display: flex;
+  justify-content: center;
+}
+
+.call-to-action .card {
+  background-color: #3882f6;
+  width: 1000px;
+  padding: 50px 100px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.call-to-action .card span {
+  color: #eee;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.call-to-action .card p {
+  color: #e5e7eb;
+  margin-top: 5px;
+}
+
+.call-to-action .card button {
+  border: 2px solid #f9faf8;
+  background-color: transparent;
+  color: #f9faf8;
+  padding: 10px 40px;
+  font-weight: 600;
+  font-size: 16px;
+  border-radius: 20px;
+  cursor: pointer;
 }

@@ -197,3 +197,10 @@ a {
   border-radius: 20px;
   cursor: pointer;
 }
+
+/* Footer */
+.footer {
+  padding: 40px 0;
+  color: #e5e7eb;
+  text-align: center;
+}
